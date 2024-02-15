@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="body_candi_borobudur">
+        Candi Borobudur adalah sebuah situs warisan dunia yang terletak di Provinsi Jawa Tengah, Indonesia, sekitar 40 kilometer sebelah barat daya dari Kota Yogyakarta. Berdiri megah di tengah-tengah lereng Gunung Menoreh dan Gunung Merapi, candi ini adalah salah satu keajaiban arsitektur Buddha terbesar di dunia.
+    </string>
+    <string name="body_candi_prambanan">Candi Prambanan adalah kompleks candi Hindu yang terletak di Provinsi Jawa Tengah, Indonesia, sekitar 17 kilometer sebelah timur laut dari Kota Yogyakarta. Sebagai salah satu situs warisan dunia UNESCO, Candi Prambanan merupakan salah satu peninggalan arsitektur Hindu terbesar dan paling megah di Asia Tenggara.</string>
+    <string name="body_heha_view_sky">HeHa Sky View menawarkan panorama alam Yogyakarta yang luar biasa indah. Dari ketinggian, pengunjung dapat melihat hamparan perbukitan hijau, persawahan yang luas, dan birunya laut selatan. Pemandangan matahari terbenam di HeHa Sky View juga merupakan salah satu yang terindah di Yogyakarta.</string>
+    <string name="body_tugu_jogja">
+        Tugu Yogyakarta, atau yang dikenal juga dengan nama Tugu Pal Putih, adalah sebuah monumen bersejarah yang terletak di perempatan Jalan Jenderal Sudirman dan Jalan Margo Utomo, Yogyakarta. Tugu ini merup
+    </string>
+    <string name="body_malioboro">Malioboro adalah jalan ikonik di Yogyakarta yang terkenal sebagai surga belanja dan kuliner. Jalan sepanjang 2 kilometer ini dipenuhi dengan berbagai toko, kios, dan pedagang kaki lima yang menjajakan berbagai macam produk, mulai dari batik, pernak-pernik, hingga makanan khas Yogyakarta.
+
+</string>
+
+    <string name="title_candi_borobudur">Candi Borobudur</string>
+    <string name="title_candi_prambanan">Candi Prambanan</string>
+    <string name="title_heha_view_sky">heha View Sky</string>
+    <string name="title_tugu_jogja">Tugu Jogja</string>
+    <string name="title_malioboro">Malioboro</string>
+</resources>
